@@ -1,5 +1,6 @@
 package easy
 
+// https://leetcode.com/problems/missing-number/
 func MissingNumber(nums []int) int {
 	length := len(nums)
 	sum := (length * (length + 1)) / 2

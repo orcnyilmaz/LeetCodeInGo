@@ -1,5 +1,6 @@
 package easy
 
+// https://leetcode.com/problems/palindrome-number/
 func IsPalindrome(x int) bool {
 	tempNum := x
 	var reversedNum int
